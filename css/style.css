@@ -1,0 +1,72 @@
+body {
+    background-color: #EFFAD3;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 3px;
+    width: 100%;
+}
+
+h1 {
+    color: #2D6187;
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #2D6187;
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: #2D6187;
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+
+h4 {
+    color: #2D6187;
+    font-family: cursive, sans-serif;
+}
+
+h5 {
+    color: black;
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+
+p {
+    color: #2D6187;
+    font-family: cursive, sans-serif;
+}
+
+table {
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    color: #2D6187;
+    font-family: cursive, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    height: 180px;
+    width: 140px;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+
+  .overlay {
+    position:absolute;
+    top:150;
+    right:0;
+    z-index:1;
+    padding:20px;
+    font-size: xx-large;
+}
